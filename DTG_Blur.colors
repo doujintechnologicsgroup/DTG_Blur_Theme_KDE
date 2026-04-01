@@ -2,6 +2,8 @@
 # FOR KDE PLASMA 6.3.6
 # KISS <KEEP IT SIMPLE, STUPID>
 
+# Descargá el archivo, tiralo en ~/.local/share/color-schemes/ y seleccionalo en Ajustes de Sistema. Si no te aparece, reiniciá la sesión y dejá de romper las bolas
+
 [ColorEffects:Disabled]
 Color=56,56,56
 ColorAmount=0
